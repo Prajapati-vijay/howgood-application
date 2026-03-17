@@ -10,12 +10,12 @@ notes=f"Backend engineer with ~3.5 years of experience in Python, Django, and Fa
 payload = {
     "name": "Vijay Prajapati",
     "email": "vijayprajapati260263@gmail.com",
-    "resume": "https://drive.google.com/file/d/1urtcdYfaZugaYop3M3thslJh20qTZwgp/view?usp=sharing",
+    "resume": "https://drive.google.com/uc?export=download&id=1urtcdYfaZugaYop3M3thslJh20qTZwgp",
     "location": "Noida, India",
     "linkedin": "https://www.linkedin.com/in/vijay-prajapati-60a3b5247/",
-    "codeLink": "https://github.com/Prajapati-vijay",
-    "yearsPython": 4,
-    "yearsDjango": 4,
+    "codeLink": "https://github.com/Prajapati-vijay/howgood-application",
+    "yearsPython": 3,
+    "yearsDjango": 3,
     "repos": "https://github.com/Prajapati-vijay",
     "notes": notes
 }
